@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-card {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 25px;
+}
+
+.home-main-heading {
+    color: #f19116;
+    text-align: center;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.home-paragraph {
+    color: #7b8794;
+    text-align: center;
+    font-family: "Bree Serif";
+}
+
+.button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 0px;
+    border-color: white;
+    width: 90px;
+}
+
+.bg-container2 {
+    background-color: #222222;
+}
+
+.service-main-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding: 15px;
+}
+
+.service-card {
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.image {
+    height: 200px;
+    width: 120px;
+}
+
+.service-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: bold;
+    color: #0f0e46;
+}
+
+.service-paragraph {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.txt-container {
+    padding: 8px;
+}
+
+.imagecard {
+    width: 430px;
+    height: 250px;
+}
+
+.cardheading {
+    font-size: 30px;
+    color: #f19116;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.locationimage {
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+}
+
+.locationpara {
+    color: #ffffff;
+    padding: 15px;
+}
+
+.locationline {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-mainheading {
+    color: #f19116;
+    font-size: 35px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    padding: 8px;
+}
+
+.cardparagraph {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Bree serif";
+    padding: 8px;
+}
+
+.button1 {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 0px;
+    border-color: white;
+    width: 90px;
+    margin: 8px;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 0px;
+    border-color: white;
+    width: 90px;
+    margin: 8px;
+}
+
+.navbar-image {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+}
